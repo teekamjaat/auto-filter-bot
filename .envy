@@ -1,0 +1,3 @@
+TELEGRAM_BOT_TOKEN=your-telegram-bot-token
+FORCE_SUBSCRIBE=@channel1,@channel2
+URL_SHORTENER_API=your-url-shortener-api-key
